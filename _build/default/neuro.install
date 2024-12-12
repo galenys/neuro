@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/neuro/META"
+  "_build/install/default/lib/neuro/dune-package"
+  "_build/install/default/lib/neuro/opam"
+]
+bin: [
+  "_build/install/default/bin/neuro"
+]
